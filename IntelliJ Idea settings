@@ -1,0 +1,6 @@
+* Eclipse like behaviour on CamelCaseWords
+*# Open Settings: File -> Settings [Ctrl+Alt+S]
+*# Navigate to: Editor -> General
+*# Uncheck *Honor "CamelHumps" words settings when selecting on double click* in *Mouse* section
+*# Navigate to: Editor -> General -> Smart Keys
+*# Check *Use "CamelHumps" Words*
